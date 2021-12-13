@@ -1,1 +1,1 @@
-# online_hotel_management
+# online_restaurant_management
